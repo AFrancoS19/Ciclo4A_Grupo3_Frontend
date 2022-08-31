@@ -1,2 +1,2 @@
-# Ciclo4A_Grupo3_Frontend
+# Frontend
 Repositorio especifico para la parte del Front-end
